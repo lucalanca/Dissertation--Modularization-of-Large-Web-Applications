@@ -1,6 +1,6 @@
 # Workplan
 
-This is the place where dissertation's workplan is described.
+This is the place where dissertation's work plan is described.
 
 
 ## Winter Semester
@@ -57,5 +57,5 @@ This is the place where dissertation's workplan is described.
 
 ## Glossary:
 - DP - DP
-- SP - Sprint SP
-- SR - Sprint SRs
+- SP - Sprint Planning
+- SR - Sprint Retrospective
