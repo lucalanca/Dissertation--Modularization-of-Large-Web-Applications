@@ -6,7 +6,7 @@ That being said, in the real world, sometimes there isn't enough time to develop
 
 The Betfair system is an interesting one to study. First, because it has suffered several architecture modifications over time since its beginning. Second, because its a system with huge scalability, consistency and availabily constraints. 
 
-This master's thesis will focus on studying architecture refactoring of systems. It will hava as case study the Betfair system, where an architecture refactoring will be made by the introduction of SOA patterns (specifically Enterprise System Bus). It will provide insights to common problems in refactoring architecture of system and techniques and methods on how to achieve this.
+This master's thesis will focus on studying architecture refactoring of systems. It will have as case study the Betfair system, where an architecture refactoring will be made by the introduction of SOA patterns (specifically Enterprise System Bus). It will provide insights to common problems in refactoring architecture of system and techniques and methods on how to achieve this.
 
 <!-- # Context
 
